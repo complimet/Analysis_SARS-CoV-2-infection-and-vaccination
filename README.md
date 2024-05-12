@@ -1,1 +1,7 @@
-Provided are Matlab functions used for the analysis of SARS-CoV-2 data. Functions are universaly applicable and include distance correlation calculation, gPCA calculation and plotting, calcuation of the number of Fuzzy C-means clusters, Fuzzy clusters plotting as well as ploting of bi-serial analysis. 
+Provided are novel Matlab functions for:
+-distance correlation calculation;
+-gPCA calculation and plotting, 
+-calculation of the number of Fuzzy C-means clusters, 
+-ploting of bi-serial analysis,
+-Relieff feature selection
+Names are self explanatory.
